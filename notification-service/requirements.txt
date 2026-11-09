@@ -1,0 +1,6 @@
+aio-pika==9.6.2
+fastapi==0.151.0
+psycopg2-binary==2.9.13
+pydantic-settings==2.14.2
+SQLAlchemy==2.1.5
+uvicorn==0.54.0
